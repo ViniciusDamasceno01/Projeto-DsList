@@ -1,4 +1,4 @@
-# ProjetoSpringBoot_02
+# Sistema de coleção de jogos - DSList
 
 
 ## Modelo de domínio DSList
