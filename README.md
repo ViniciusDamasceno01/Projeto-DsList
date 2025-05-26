@@ -7,9 +7,11 @@ A proposta consiste em um sistema de visualização de coleções de jogos, perm
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto é aplicar os conhecimentos adquiridos no desenvolvimento de uma API RESTful utilizando **Spring Boot**, **Spring Data JPA** e boas práticas de desenvolvimento backend com Java.  
-Além disso, o projeto também exercita conceitos modernos de deploy, controle de versão, modelagem de dados e exposição de serviços web.
+O objetivo deste projeto é aplicar na prática conceitos essenciais do desenvolvimento backend com Java Spring Boot, incluindo a construção de APIs RESTful seguindo o padrão cliente/servidor, manipulação de dados via JSON e uso de boas práticas como DTOs e organização em camadas (controller, service, repository).
 
+Além disso, o projeto aborda modelagem avançada com relacionamentos muitos-para-muitos (N-N), uso de entidades associativas e consultas otimizadas com Spring Data JPA.
+
+Na parte de infraestrutura, foram explorados perfis de projeto, configuração e homologação do ambiente local utilizando Docker Compose, além da implementação do processo de deploy automático (CI/CD) na plataforma Railway e a configuração de CORS para garantir comunicação segura entre front e backend.
 ---
 
 ## 🚀 Tecnologias Utilizadas
