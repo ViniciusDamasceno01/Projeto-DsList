@@ -12,6 +12,7 @@ O objetivo deste projeto é aplicar na prática conceitos essenciais do desenvol
 Além disso, o projeto aborda modelagem avançada com relacionamentos muitos-para-muitos (N-N), uso de entidades associativas e consultas otimizadas com Spring Data JPA.
 
 Na parte de infraestrutura, foram explorados perfis de projeto, configuração e homologação do ambiente local utilizando Docker Compose, além da implementação do processo de deploy automático (CI/CD) na plataforma Railway e a configuração de CORS para garantir comunicação segura entre front e backend.
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
