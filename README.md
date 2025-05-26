@@ -4,9 +4,6 @@
 A proposta consiste em um sistema de visualização de coleções de jogos, permitindo listar e organizar os games favoritos de um determinado usuário. O backend foi construído com **Spring Boot**, seguindo os padrões REST e as boas práticas de desenvolvimento web.
 
 
----
-
-
 ## 🎯 Objetivo
 
 - O objetivo deste projeto é aplicar na prática conceitos essenciais do desenvolvimento backend com Java Spring Boot, incluindo a construção de APIs RESTful seguindo o padrão cliente/servidor, manipulação de dados via JSON e uso de boas práticas como DTOs e organização em camadas (controller, service, repository).
@@ -14,9 +11,6 @@ A proposta consiste em um sistema de visualização de coleções de jogos, perm
 - Além disso, o projeto aborda modelagem avançada com relacionamentos muitos-para-muitos (N-N), uso de entidades associativas e consultas otimizadas com Spring Data JPA.
 
 - Na parte de infraestrutura, foram explorados perfis de projeto, configuração e homologação do ambiente local utilizando Docker Compose, além da implementação do processo de deploy automático (CI/CD) na plataforma Railway e a configuração de CORS para garantir comunicação segura entre front e backend.
-
-
----
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -30,8 +24,6 @@ A proposta consiste em um sistema de visualização de coleções de jogos, perm
 - Maven  
 - Postman (para testes de API)
 
-
----
 
 
 ## Modelo de domínio DSList
